@@ -8,3 +8,5 @@ El resultado de la extracción se escribe en un documento .txt
 El resutado de la extracción se puede visualizar: a través del archivo.txt (refrescando), o mediante el output.py que basicamente va mostrando las actualización del txt anterior sobre la terminal.
 
 *IMPORTANTE: desactivar borrado del contenido del txt en el bucle while si se desea mantener un historico del contenido extraido.
+
+*IMPORTANTE: Tener en cuenta el idioma del texto que se quiere extraer. Añadir leng='esp' si se quiere identificar textos escritos en español.
